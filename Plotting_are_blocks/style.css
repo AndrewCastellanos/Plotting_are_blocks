@@ -1,0 +1,16 @@
+.white{
+    background-color: white;
+
+}
+
+.red {
+    background-color: red;
+    border: 60px;
+    border-radius: 50%;
+    height: 300px;
+    width: 300px;
+    top:35%;
+    left: 35%;
+    position: absolute;
+    
+}
